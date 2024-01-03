@@ -4,7 +4,14 @@ Using python script (wrapper.py) to manipulate mickey.png image
 
 ## Description
 
-Using Python to integrate all the codes written in C, Haskell, Prolog, and MATLAB to leverage the image processing capabilities of MATLAB
+Using Python to integrate all the codes written in C, Haskell, Prolog, and MATLAB to leverage the image processing capabilities of MATLAB.
+
+### Notes
+
+* Only MacOS can run this code because Windows machine are not able to accept such a large file unless you change the dimensions.
+* For Window in MATLAB, change the dimension size to be 50-75 pixels by 50-75 pixels.
+* This image will be smaller, but able to run this code fine. This will be the easiest method.
+* A harder work around would be changing the python code to accept the bits row by row instead of all the bits at once.
 
 ## Getting Started
 
