@@ -35,9 +35,9 @@ Using Python to integrate all the codes written in C, Haskell, Prolog, and MATLA
   matlab
   ```
 
-### Executing program using cmd
+### Executing program using terminal
 
-* In cmd, navigate to the directory where the code is installed:
+* In terminal, navigate to the directory where the code is installed:
 ```
 python3 wrapper.py
 ```
