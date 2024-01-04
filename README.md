@@ -42,8 +42,15 @@ Using Python to integrate all the codes written in C, Haskell, Prolog, and MATLA
 python3 wrapper.py
 ```
 
-## Authors
+## Contact
 
-Jien Zheng 
-###
+Jien Zheng
+
+Project Link: [https://github.com/jienzheng/Scripting-in-Python](https://github.com/jienzheng/Scripting-in-Python)
+
 San Diego State University Computer Science
+
+## Acknowledgements
+
+* [StackOverFlow](https://stackoverflow.com/)
+
