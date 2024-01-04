@@ -42,7 +42,7 @@ Using Python to integrate all the codes written in C, Haskell, Prolog, and MATLA
 python3 wrapper.py
 ```
 
-## Contact
+## Author
 
 Jien Zheng
 
