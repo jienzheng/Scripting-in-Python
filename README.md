@@ -31,7 +31,8 @@ Using Python to integrate all the codes written in C, Haskell, Prolog, and MATLA
   gcc --version
   ghc --version
   swipl --version
-  python --version
+  python --version (Windows)
+  python3 --version (MacOS)
   matlab
   ```
 
