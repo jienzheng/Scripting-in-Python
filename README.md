@@ -24,7 +24,7 @@ Using Python to integrate all the codes written in C, Haskell, Prolog, and MATLA
 * MATLAB R2023b
 
 ### Installing
-* Download provided code
+* Download the zip file with all the code
 * Install required dependencies
 * Make sure dependencies are installed properly by running:
   ```
